@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Check, Bed, Bath, Move, MapPin, DollarSign, Home } from 'lucide-react';
+import { X, Check, Bed, Bath, Move, MapPin, Home } from 'lucide-react';
 import { Property } from '../types';
 
 interface ComparisonModalProps {
